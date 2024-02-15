@@ -8,11 +8,11 @@ This repository is for a full-fledged MERN stack application with an authenticat
 1. **Clone the repository:** `git clone https://github.com/Satyam2192/Facebook-Helpdesk.git`
 2. **Install dependencies:**
    * **Frontend:** `cd client && npm install`
-   * **Backend:** `cd server && npm install`
+   * **Backend:** `cd api && npm install`
 3. **Set environment variables:** Create a `.env` file in the root directory and add your required environment variables (e.g., `MONGODB_URL`, `PORT`, etc.).
 4. **Run the application:**
-   * **Frontend:** `cd client && npm start`
-   * **Backend:** `cd server && npm start`
+   * **Frontend:** `npm run dev`
+   * **Backend:** `npm run dev`
 
 **Features:**
 
