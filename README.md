@@ -1,4 +1,4 @@
-# Project Name: [Facebook Helpdesk]
+# Facebook Helpdesk
 
 
 This repository is for a full-fledged MERN stack application with an authentication system:
